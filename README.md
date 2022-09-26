@@ -1,5 +1,6 @@
 # mycode
 Tracking my code
+Want to learn how to version control projects with git.
 
 Python training
 ## Getting Started
